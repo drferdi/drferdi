@@ -2,7 +2,7 @@
 <tr>
 <td width="34%" align="center" valign="top">
 
-<img src="https://i.ibb.co.com/jZwfy0vB/drferdiikskandar.png" alt="dr. Ferdi Iskandar" width="150" />
+<img src="https://i.ibb.co.com/4npjRj3C/drferdiiskandar-MAIN.jpg" alt="dr. Ferdi Iskandar" width="150" />
 <br />
 <b>dr. Ferdi Iskandar</b><br />
 Lead Architect
